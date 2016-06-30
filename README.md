@@ -1,2 +1,3 @@
 # xodular
-custom Pd modules compatible with XODULAR system
+custom Pure Data modules compatible with XODULAR system
+more about XODULAR: http://www.monologx.com/xodular/
