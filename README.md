@@ -1,3 +1,3 @@
 # xodular
-Custom Pure Data modules compatible with XODULAR system <br>
-More about XODULAR: http://www.monologx.com/xodular/
+Custom Pure Data modules compatible with AUTOMATONISM system <br>
+More about AUTOMATONISM: https://www.automatonism.com/
